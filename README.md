@@ -8,7 +8,7 @@ The **DeliverThat Bot app** is a powerful automation tool built for drivers who 
 - ✔️ Real-time offer scanning and filtering  
 - ✔️ Maximize earnings with zero manual effort  
 
-👉 **Download now at [BotGrabber.com](http://BotGrabber.com)**  
+👉 **Download [DeliverThat Bot](http://botgrabber.com/deliverthat) now**  
 
 ## Watch the Demo  
 🎥 See the DeliverThat Bot in action:  
